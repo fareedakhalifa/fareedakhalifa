@@ -2,7 +2,7 @@
 title: "Knowledge Gaps in the Nexus of Climate, Peace and Security"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Policy Paper within the COP27 Presidency Initiative on &quot;Climate Responses for Sustaining Peace&quot (CRSP) as a joint project between the CCCPA & NUPI.'
+excerpt: ''
 date: 2023-12-01
 venue: Cairo International Center for Conflict Resolution, Peacekeeping and Peacebuilding (CCCPA) & Norwegian Institute of International Affairs (NUPI).
 paperurl: 'https://www.cccpa-eg.org/publications-details/1145'
