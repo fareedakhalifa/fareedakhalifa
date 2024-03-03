@@ -2,10 +2,11 @@
 title: "Knowledge Gaps in the Nexus of Climate, Peace and Security"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Policy Paper within the COP27 Presidency Initiative on &quot;Climate Responses for Sustaining Peace&quot (CRSP) as a joint project between the Cairo International Center for Conflict Resolution, Peacekeeping and Peacebuilding (CCCPA) & Norwegian Institute of International Affairs (NUPI)'
+excerpt: 'Policy Paper within the COP27 Presidency Initiative on &quot;Climate Responses for Sustaining Peace&quot (CRSP) as a joint project between the CCCPA & NUPI'
 date: 2023-12-01
+venue: Cairo International Center for Conflict Resolution, Peacekeeping and Peacebuilding (CCCPA) & Norwegian Institute of International Affairs (NUPI).
 paperurl: 'https://www.cccpa-eg.org/publications-details/1145'
-citation: 'Iversen, Thor Olav and Fareeda Khalifa (2023). &quot;Knowledge Gaps in the Nexus of Climate, Peace and Security.&quot; <i>Policy Paper</i>. Cairo International Center for Conflict Resolution, Peacekeeping and Peacebuilding (CCCPA) & Norwegian Institute of International Affairs (NUPI).'
+citation: 'Iversen, Thor Olav and Fareeda Khalifa (2023). &quot;Knowledge Gaps in the Nexus of Climate, Peace and Security.&quot; <i>Policy Paper</i>.'
 ---
 
 There is a growing body of research on the relationship between climate change and peace and security. Research shows that the effects of climate change can exacerbate existing vulnerabilities, such as food and water security, and in combination with other factors can also increase the risk of violent conflict. It is increasingly recognized that actions taken to prevent and manage conflict can be coordinated and integrated with actions to mitigate and adapt to climate change. Such cross-disciplinary cooperation can generate outcomes that are beneficial for both a sustainable peace and environment. The COP27 Presidency initiative titled “Climate Responses for Sustaining Peace” (CRSP), has taken a leading role in this movement by spearheading a discursive pivot from a climate security nexus towards a climate and peacebuilding nexus, with multifaceted and holistic approaches.
